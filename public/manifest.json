@@ -1,0 +1,13 @@
+{
+  "name": "Goa 2026 - The Boys Trip",
+  "short_name": "Goa 2026",
+  "description": "7 friends. 4 days. One unforgettable trip.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
