@@ -62,7 +62,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-xs" style={{ color: "var(--text-muted)" }}>
-          August 20–24, 2026 · North & South Goa
+          June 20–24, 2026 · North & South Goa
         </p>
       </motion.div>
     </div>
