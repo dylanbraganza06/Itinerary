@@ -133,24 +133,5 @@ users/
         date: string      (YYYY-MM-DD)
 ```
 
----
 
-## Deploy to Vercel
 
-```bash
-npm install -g vercel
-vercel
-```
-
-Add all `NEXT_PUBLIC_FIREBASE_*` environment variables in the Vercel dashboard under **Settings → Environment Variables**.
-
----
-
-## Firestore Security Rules Deployment
-
-```bash
-npm install -g firebase-tools
-firebase login
-firebase init firestore
-firebase deploy --only firestore:rules
-```
